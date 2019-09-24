@@ -1,0 +1,29 @@
+[33mcommit 3955666d769966f9d98ee6cbb5e55de6870c4703[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Omar Soufi <Omar.Soufi@ensimag.grenoble-inp.fr>
+Date:   Tue Sep 24 15:19:52 2019 +0200
+
+    Mod 2
+
+[33mcommit 2eebb150b2f81cdb3d894e73bc570f8264369d22[m[33m ([m[1;32mfeature/formatting[m[33m)[m
+Author: Omar Soufi <Omar.Soufi@ensimag.grenoble-inp.fr>
+Date:   Tue Sep 24 14:52:37 2019 +0200
+
+    Ajout de 2  fichiers
+
+[33mcommit 4a118f8b484d1311a9a48166fd04079bf39ed778[m[33m ([m[1;32momar[m[33m)[m
+Author: Omar Soufi <Omar.Soufi@ensimag.grenoble-inp.fr>
+Date:   Tue Sep 24 14:40:11 2019 +0200
+
+    Ajout d'un fichier
+
+[33mcommit 5cdbf5e50fdeeea0207c6c90e3c9e57364ad7f80[m
+Author: Gaël Jourdan-Weil <gjourdanweil@gmail.com>
+Date:   Sun Sep 22 17:38:36 2019 +0200
+
+    Create models.ts
+
+[33mcommit 54fd4cc3ed4904e8b77d0b681025db5dbf63c3c3[m
+Author: Lorie Pisicchio <lorie.pisicchio@gmail.com>
+Date:   Wed Sep 18 14:25:55 2019 +0200
+
+    Initial commit
